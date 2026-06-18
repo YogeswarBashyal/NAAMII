@@ -1,4 +1,4 @@
-# NAAMII
+# Bone Segmentation and Landmark Detection
 Bone Segmentation and Landmark Detection
 This repository includes a Jupyter Notebook (naami .ipynb) that is nothing but bone segmentation and subsequent landmark detection in 3D medical images.
 
